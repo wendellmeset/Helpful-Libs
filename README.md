@@ -33,3 +33,4 @@ Helpful libraries
 - PyNbt (TinyNBT)
 - PyCraft
 - McPi
+- mcworldlib

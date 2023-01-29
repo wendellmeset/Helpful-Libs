@@ -32,5 +32,6 @@ Helpful libraries
 - Gzip
 - PyNbt (TinyNBT)
 - PyCraft
-- McPi
+- McPi 
 - mcworldlib
+- pymclevel
